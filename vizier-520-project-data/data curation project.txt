@@ -1,0 +1,21 @@
+Data curation project sources:
+
+GLAV Schema over the following datasets:
+
+1. Metropolitan Art Dataset:
+https://github.com/metmuseum/openaccess/blob/master/MetObjects.csv
+
+2. Cooper Hewitt Dataset:
+https://github.com/cooperhewitt/collection/blob/master/meta/objects.csv
+
+3. Carnegie Art Museum Dataset:
+https://github.com/cmoa/collection/blob/master/cmoa.csv
+
+4. National Gallery of Art:
+https://github.com/NationalGalleryOfArt/opendata
+
+5. The Museum of Modern Art (MoMA) Collection:
+https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv
+
+6. Tate Collection
+https://github.com/tategallery/collection/blob/master/artwork_data.csv
