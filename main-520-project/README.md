@@ -10,3 +10,4 @@
 - 2023.11.13 21.03 Copy code for the vizier db and pandas (By Prashant Ravi[prashantr36])
 - 2023.11.14 13.34 Original code for the vizier db and pandas (By Prashant Ravi[prashantr36])
 - 2023.11.14 16.12 Completed the nominal paper summary (By Haeun Suh[hsuh9416])
+- 2023.11.26 16.31 Create directory 'backup' to store unnecessary historical data (By Haeun Suh[hsuh9416])
