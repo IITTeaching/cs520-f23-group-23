@@ -2,6 +2,7 @@
 - To be uploaded
 
 # Updates
+- 2023.11.26 8.11 Added the pdf
 - 2023.10.29 15.03 Added READ.md (By Haeun Suh[hsuh9416])
 - 2023.10.29 15.03 Changed the directory (By Haeun Suh[hsuh9416])
 - 2023.10.29 15.03 Added the product of nominal paper summary(Work in Process, completed ~ 1. Introduction) (By Haeun Suh[hsuh9416])
