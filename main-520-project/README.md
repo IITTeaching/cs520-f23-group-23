@@ -1,5 +1,9 @@
 # Group 23 Project
-- To be uploaded
+- This project repository is a place to store results created from group projects included in CS 520.
+- The group project contains two separate subprojects:<br>
+  (1) Paper Review: Paper summary and review for the paper "Computing Rule-Based Explanations by Leveraging Counterfactuals".
+  <br>
+  (2) Data Curation:
 
 # Updates
 - 2023.10.29 15.03 Added READ.md (By Haeun Suh[hsuh9416])
