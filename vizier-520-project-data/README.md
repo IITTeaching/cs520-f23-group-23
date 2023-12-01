@@ -1,4 +1,4 @@
-# Prohect vizier 101
+# Project vizier 101
 - This project is a tutorial project to understand how to use vizer and includes screen captures of the results after performing tasks 1 to 9 suggested on the webpage below:<br>
  [LINK] 
  <a>http://www.cs.iit.edu/~glavic/cs520/2023-fall/project/vizier101/</a>
