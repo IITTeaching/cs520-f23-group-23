@@ -17,3 +17,4 @@
 - 2023.11.26 16.34 Create directory 'misc' to store miscellaneous data (By Haeun Suh[hsuh9416])
 - 2023.11.26 20.11 Added the pdf (By Prashant Ravi[prashantr36])
 - 2023.11.28 16.01 Completed and uploaded the powerpoint file for paper review presentation (By Haeun Suh[hsuh9416])
+- 2023.12.03 13.34 Added pdf version of the completed paper review report (By Haeun Suh[hsuh9416])
