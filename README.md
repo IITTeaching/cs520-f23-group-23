@@ -11,8 +11,8 @@ Activation of virtual environment
 ----------------------------------------------------------------------
 python3 -m venv .venv
 source .venv/bin/activate
-
 which python
+
 
 Ensure the python version is 3.10 and JDK is 8+ there is a bug in JDK 9 
 that prevents saving of dataframe because of non-compatbility with latest pyspark
