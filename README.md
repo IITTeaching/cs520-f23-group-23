@@ -38,7 +38,7 @@ pip3 install dedupe==2.0.23
 pip3 install nltk==3.8.1  
 pip3 install IPython==8.18.1  
 
-#### Proceed to localhost:5000 on the browser and import the cs520_museum file into a new project 
+#### Proceed to localhost:5000 on the browser and import the cs520_museum.vizier file into a new project 
 
 vizier
 
